@@ -11,6 +11,7 @@
 		A319A17929EFDF4B006FB1C0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A319A17829EFDF4B006FB1C0 /* ContentView.swift */; };
 		A319A17B29EFDF4C006FB1C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A319A17A29EFDF4C006FB1C0 /* Assets.xcassets */; };
 		A319A17E29EFDF4C006FB1C0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A319A17D29EFDF4C006FB1C0 /* Preview Assets.xcassets */; };
+		A319A18729EFE017006FB1C0 /* Test2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A319A18629EFE017006FB1C0 /* Test2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A319A17829EFDF4B006FB1C0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A319A17A29EFDF4C006FB1C0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A319A17D29EFDF4C006FB1C0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A319A18629EFE017006FB1C0 /* Test2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		A319A17529EFDF4B006FB1C0 /* Test1 */ = {
 			isa = PBXGroup;
 			children = (
+				A319A18629EFE017006FB1C0 /* Test2.swift */,
 				A319A17629EFDF4B006FB1C0 /* Test1App.swift */,
 				A319A17829EFDF4B006FB1C0 /* ContentView.swift */,
 				A319A17A29EFDF4C006FB1C0 /* Assets.xcassets */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A319A18729EFE017006FB1C0 /* Test2.swift in Sources */,
 				A319A17929EFDF4B006FB1C0 /* ContentView.swift in Sources */,
 				A319A17729EFDF4B006FB1C0 /* Test1App.swift in Sources */,
 			);
@@ -267,6 +271,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Test1/Preview Content\"";
+				DEVELOPMENT_TEAM = PFVCA649R3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -295,6 +300,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Test1/Preview Content\"";
+				DEVELOPMENT_TEAM = PFVCA649R3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
